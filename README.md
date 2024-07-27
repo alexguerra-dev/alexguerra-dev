@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Alex, a software engineer from San Antonio, TX. I'm currently working on a few projects, including a [personal website](https://alexguerra.today) and a [personal blog](https://blog.alexguerra.today). I'm also working on a few other projects that I'll be releasing soon.
+I'm Alex, a software engineer from San Antonio, TX. I'm currently working on a few projects.
 
-<!--
 **alexguerra-dev/alexguerra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
