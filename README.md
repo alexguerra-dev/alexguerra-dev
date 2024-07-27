@@ -21,4 +21,4 @@
 
 Always looking for new collaborations and exciting projects!
 
-![Sailor Moon GIF](https://media.giphy.com/media/3o7TKz9bX9v8h6g3QY/giphy.gif)
+![Sailor Moon GIF](/img/sailormooneyes.gif)
