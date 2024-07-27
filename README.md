@@ -1,17 +1,20 @@
-### Hi there 👋
+🌟 Front-End Developer | Creative Technologist 🎨
 
-I'm Alex, a software engineer from San Antonio, TX. I'm currently working on a few projects.
+🚀 Passionate about merging art and technology. My journey in tech started with a Mechanical Engineering degree from MIT, and since then, I've ventured from genomic research to exciting projects in software development.
 
-**alexguerra-dev/alexguerra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **Professional Highlights:**
+- **CTO of a Startup**: Developed an app sold to AVG.
+- **Keith McMillen Instruments**: Engineered innovative musical instruments.
+- **USAA Contractor**: Focused on web accessibility and modern web technologies.
 
-Here are some ideas to get you started:
+👨‍💻 **Skills:**
+- React, JavaScript, Python, Linux
+- Git, CSS, HTML, DevOps
+- Web Accessibility, Creative Coding, Generative Art
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 **Hobbies:**
+- Drawing, Music Production, Sound Design
+- Visual Arts, Crafting, Fighting Games
+
+Always looking for new collaborations and exciting projects!
+
